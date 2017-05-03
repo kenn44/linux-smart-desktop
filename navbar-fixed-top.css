@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+    background-image: url("img/Euphoria!_by_Tomasino.cz.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+nav{
+    background-color: rgba(100, 100, 100, 0.5) !important;
+    height: 10px;
+
+}
+
+.navbar{
+    border: none;
+}
+
+#ejs_heure{
+    font-weight: bold;
+    color: #fff;
+}
+
+.hide{
+    display: none;
+}
+
