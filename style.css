@@ -4,13 +4,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
-
 }
 
 nav{
     background-color: rgba(100, 100, 100, 0.5) !important;
     height: 10px;
-
 }
 
 .navbar{
