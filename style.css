@@ -1,5 +1,5 @@
 body {
-  padding-top: 70px;
+    padding-top: 70px;
     background-image: url("img/Euphoria!_by_Tomasino.cz.jpg");
     background-attachment: fixed;
     background-size: cover;
@@ -25,4 +25,3 @@ nav{
 .hide{
     display: none;
 }
-
